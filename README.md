@@ -196,6 +196,11 @@ Enhance your website’s SEO with page-specific recommendations covering meta ta
 
 ## Pricing of Moz Pro
 
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1EGt-1CNfv_GUjTYgs67wIrhs4Vk3kVqD"  alt="Mozpro Pricing">
+</a>
+
+
 | Plan                      | Price (Monthly) | Price (Yearly)            | Users | Tracked Sites | Keywords/Month | Pages Crawled/Month | Key Features                            |
 | ------------------------- | --------------- | ------------------------- | ----- | ------------- | -------------- | ------------------- | --------------------------------------- |
 | **Starter**               | \$49            | \$39/month billed yearly  | 1     | 1             | 50             | 20K                 | Keyword research, MozBar, site tracking |

@@ -180,14 +180,17 @@ Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:
 
 1. **Visit the Mozpro Free Trial Page**
     
-    Go to the Moz Pro free trial page.
+    Go to the Moz Pro free trial page
 
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1iAXpGFmNFJbmekPgtPgYetPq3mzRmH3V"  alt="Mozpro Free Trial Page">
+</a>
 
-2. **Choose Your Plan**
+3. **Choose Your Plan**
     
     Select between the **Standard** or **Medium** plan, depending on your needs and the features you want to access.
     
-3. **Create a Moz Account**
+4. **Create a Moz Account**
     
     Enter your **email address** and create a **password** to set up your account. If you already have an account, just log in.
 
@@ -200,9 +203,8 @@ Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:
     Provide your **credit card details**. You won't be charged unless you choose to continue with the paid plan after the 30-day trial ends.
 
 <a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1BtgsciVRLJEfRpSlJUa6FOwqSPeqp5aD"  alt="Mozpro Free Trial Page">
+  <img src="https://drive.google.com/uc?export=view&id=1BtgsciVRLJEfRpSlJUa6FOwqSPeqp5aD"  alt="Mozpro Billing">
 </a>
-    
     
 5. **Confirm and Start Your Trial**
     

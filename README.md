@@ -126,31 +126,7 @@ Whether you're a business owner, content creator, or digital marketer, this tria
 <img src="https://drive.google.com/uc?export=view&id=1XyTmJpkLrN0yI3-nW1iocbDoCJPd9FDq" alt="Try for FREE"> 
 </a>
 
-## **How to Sign Up for Mozpro Free Trial (Step-by-Step Guide)**
-
-Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:**
-
-1. **Visit the Mozpro Free Trial Page**
-    
-    Go to the Moz Pro free trial page.
-    
-1. **Choose Your Plan**
-    
-    Select between the **Standard** or **Medium** plan, depending on your needs and the features you want to access.
-    
-2. **Create a Moz Account**
-    
-    Enter your **email address** and create a **password** to set up your account. If you already have an account, just log in.
-    
-3. **Enter Billing Information**
-    
-    Provide your **credit card details**. You won't be charged unless you choose to continue with the paid plan after the 30-day trial ends.
-    
-4. **Confirm and Start Your Trial**
-    
-    Review all your details and click the **"Start Free Trial"** button to activate your 30-day trial.
-
-### Key Features During the Free Trial
+## Key Features During the Free Trial
 
 **Keyword Research**
 
@@ -193,6 +169,48 @@ Enhance your website’s SEO with page-specific recommendations covering meta ta
 - **Credit Card Required**: A valid credit card is needed to start the trial.
 - **No Immediate Charges**: You won’t be charged during the trial period.
 - **Cancellation**: You can cancel at any time during the trial to avoid future charges.
+
+<a href="https://afftrend.com/mozpro"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
+
+## **How to Sign Up for Mozpro Free Trial (Step-by-Step Guide)**
+
+Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:**
+
+1. **Visit the Mozpro Free Trial Page**
+    
+    Go to the Moz Pro free trial page.
+
+
+2. **Choose Your Plan**
+    
+    Select between the **Standard** or **Medium** plan, depending on your needs and the features you want to access.
+    
+3. **Create a Moz Account**
+    
+    Enter your **email address** and create a **password** to set up your account. If you already have an account, just log in.
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1Rn9skg_wkVn_IxmiAsXGSZABXzERlA8c"  alt="Mozpro Account Setup">
+</a>
+    
+4. **Enter Billing Information**
+    
+    Provide your **credit card details**. You won't be charged unless you choose to continue with the paid plan after the 30-day trial ends.
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1BtgsciVRLJEfRpSlJUa6FOwqSPeqp5aD"  alt="Mozpro Free Trial Page">
+</a>
+    
+    
+5. **Confirm and Start Your Trial**
+    
+    Review all your details and click the **"Start Free Trial"** button to activate your 30-day trial.
+
+<a href="https://afftrend.com/MozPro"> 
+ <img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ## Pricing of Moz Pro
 
@@ -263,6 +281,10 @@ At $299/month or $239/month when billed annually, the Large Plan offers everythi
 This is ideal for agencies managing several clients or enterprise SEO teams that need high data capacity and collaborative tools.
 
 Moz Pro offers flexible and scalable pricing based on your business needs. Whether you're a solopreneur or a large agency, there's a plan that aligns with your SEO goals. Opt for yearly billing to save 20% and maximize your return on investment.
+
+<a href="https://afftrend.com/mozpro"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
 
 ## Limitations of the Free Trial
 

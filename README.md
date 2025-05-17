@@ -228,7 +228,7 @@ Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:
 | **Medium** (Most Popular) | \$179           | \$143/month billed yearly | 2     | 10            | 1,500          | 2M                  | Branded reports, report templates       |
 | **Large**                 | \$299           | \$239/month billed yearly | 3     | 25            | 3,000          | 5M                  | Higher quotas, agency-level tools       |
 
-**Starter Plan: Ideal for Beginners & Small Businesses**
+### **Starter Plan: Ideal for Beginners & Small Businesses**
 
 At just $49/month, the Starter Plan is perfect for solo entrepreneurs, bloggers, or startups that manage a single site. You get access to:
 
@@ -239,7 +239,7 @@ At just $49/month, the Starter Plan is perfect for solo entrepreneurs, bloggers,
   
 You'll also benefit from MozBar Premium, keyword research tools, site tracking, and 24-hour support. For those paying annually, the cost drops to just $39/month, making it a budget-friendly SEO solution.
 
-**Standard Plan: More Power for Growing Brands**
+### **Standard Plan: More Power for Growing Brands**
 
 The Standard Plan is designed for businesses that are scaling. Priced at $99/month (or $79/month if paid yearly), it expands your capabilities to:
 
@@ -249,7 +249,7 @@ The Standard Plan is designed for businesses that are scaling. Priced at $99/mon
 
 In addition to Starter features, this plan includes backlink analysis and unlimited scheduled reports — essential for data-driven SEO performance.
 
-**Medium Plan: Most Popular for a Reason**
+### **Medium Plan: Most Popular for a Reason**
 
 The Medium Plan, priced at $179/month (or $143/month annually), is Moz's most recommended package. This plan is great for digital marketers managing multiple domains or teams:
 
@@ -260,7 +260,7 @@ The Medium Plan, priced at $179/month (or $143/month annually), is Moz's most re
   
 You'll also unlock report templates and branded reports, giving your SEO process a professional edge.
 
-**Large Plan: Built for Agencies & Power Users**
+### **Large Plan: Built for Agencies & Power Users**
 
 At $299/month or $239/month when billed annually, the Large Plan offers everything in Medium, but with significantly scaled resources:
 

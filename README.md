@@ -42,8 +42,11 @@ Here’s what Moz Pro does:
     
     Lets you see what your competitors are doing, so you can stay ahead.
     
-
 Moz Pro is trusted by businesses, marketers, and agencies worldwide. It’s especially helpful because **it simplifies SEO tasks and saves time**. With its user-friendly dashboard, you can easily track performance and **make smarter decisions** to grow your website.
+
+<a href="https://afftrend.com/mozpro"> 
+<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+</a>
 
 ### **Why Use MozPro?**
 
@@ -93,27 +96,27 @@ Here’s what you get during the free trial:
 
 - **Full Access to All Tools**
     
-    Use every feature available in the paid version—no limits during the trial period.
+  Use every feature available in the paid version—no limits during the trial period.
     
 - **Keyword Research Tools**
     
-    Discover the best keywords to target for your content and SEO strategy.
+  Discover the best keywords to target for your content and SEO strategy.
     
 - **Backlink Analysis**
 
-         View which websites are linking to yours and find new link-building  opportunities.
+  View which websites are linking to yours and find new link-building  opportunities.
 
 - **Custom Reporting**
     
-    Create detailed SEO reports to track your growth and share progress with others.
+  Create detailed SEO reports to track your growth and share progress with others.
     
 - **Campaign Management**
     
-    Organize and manage multiple SEO projects in one place.
+  Organize and manage multiple SEO projects in one place.
     
 - **24/7 Support & Help Resources**
     
-    Get expert support and useful guides if you need help.
+  Get expert support and useful guides if you need help.
   
 You can explore all of this during the 30-day trial—just remember to cancel if you don’t wish to continue later.
 
@@ -151,7 +154,9 @@ Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:
 
 **Keyword Research**
 
-
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=14Q6UtRmLFwhwaAAd2t6EZeD29yW4PX1b"  alt="Mozpro Keyword Research">
+</a>
 
 Uncover valuable, high-ranking keywords to target your ideal audience. Our keyword research process identifies user intent, search volume, and competition levels, helping you craft content that drives organic traffic. Build your SEO foundation with strategic keyword insights tailored to your business niche.
 

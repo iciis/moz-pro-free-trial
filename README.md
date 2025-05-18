@@ -56,31 +56,31 @@ Here’s how Moz Pro helps you:
 
 - **All-in-One SEO Solution**
     
-It combines multiple SEO tools in one place—saving you time and effort.
+    It combines multiple SEO tools in one place—saving you time and effort.
     
 - **Beginner-Friendly Dashboard**
     
-You don’t need to be a tech expert. The dashboard is easy to use, with clear reports and tips.
+    You don’t need to be a tech expert. The dashboard is easy to use, with clear reports and tips.
     
 - **Smart Keyword Suggestions**
     
-Moz Pro helps you find the **right keywords** to target so that your content reaches more people.
+    Moz Pro helps you find the **right keywords** to target so that your content reaches more people.
     
 - **Regular Website Health Checks**
     
-It scans your site and shows problems like broken links or slow loading pages—**and tells you how to fix them**.
+    It scans your site and shows problems like broken links or slow loading pages—**and tells you how to fix them**.
     
 - **Track Progress Easily**
     
-You can monitor your rankings and see if your SEO strategy is working.
+    You can monitor your rankings and see if your SEO strategy is working.
     
 - **Stay Ahead of Competitors**
     
-Get insights into what your competitors are doing and how you can outrank them.
+    Get insights into what your competitors are doing and how you can outrank them.
     
 - **Trusted by Professionals**
     
-Used by digital marketers, agencies, and businesses worldwide.
+    Used by digital marketers, agencies, and businesses worldwide.
     
 Using Moz Pro means **less guessing and more results**. It helps you make smart SEO decisions, fix issues quickly, and grow your website with confidence.
 
@@ -220,7 +220,6 @@ Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:
   <img src="https://drive.google.com/uc?export=view&id=1EGt-1CNfv_GUjTYgs67wIrhs4Vk3kVqD"  alt="Mozpro Pricing">
 </a>
 
-
 | Plan                      | Price (Monthly) | Price (Yearly)            | Users | Tracked Sites | Keywords/Month | Pages Crawled/Month | Key Features                            |
 | ------------------------- | --------------- | ------------------------- | ----- | ------------- | -------------- | ------------------- | --------------------------------------- |
 | **Starter**               | \$49            | \$39/month billed yearly  | 1     | 1             | 50             | 20K                 | Keyword research, MozBar, site tracking |
@@ -228,7 +227,7 @@ Here’s a **Step-by-Step Guide** on **How to Sign Up for the Mozpro Free Trial:
 | **Medium** (Most Popular) | \$179           | \$143/month billed yearly | 2     | 10            | 1,500          | 2M                  | Branded reports, report templates       |
 | **Large**                 | \$299           | \$239/month billed yearly | 3     | 25            | 3,000          | 5M                  | Higher quotas, agency-level tools       |
 
-### **Starter Plan: Ideal for Beginners & Small Businesses**
+**Starter Plan: Ideal for Beginners & Small Businesses**
 
 At just $49/month, the Starter Plan is perfect for solo entrepreneurs, bloggers, or startups that manage a single site. You get access to:
 
@@ -239,7 +238,7 @@ At just $49/month, the Starter Plan is perfect for solo entrepreneurs, bloggers,
   
 You'll also benefit from MozBar Premium, keyword research tools, site tracking, and 24-hour support. For those paying annually, the cost drops to just $39/month, making it a budget-friendly SEO solution.
 
-### **Standard Plan: More Power for Growing Brands**
+**Standard Plan: More Power for Growing Brands**
 
 The Standard Plan is designed for businesses that are scaling. Priced at $99/month (or $79/month if paid yearly), it expands your capabilities to:
 
@@ -249,7 +248,7 @@ The Standard Plan is designed for businesses that are scaling. Priced at $99/mon
 
 In addition to Starter features, this plan includes backlink analysis and unlimited scheduled reports — essential for data-driven SEO performance.
 
-### **Medium Plan: Most Popular for a Reason**
+**Medium Plan: Most Popular for a Reason**
 
 The Medium Plan, priced at $179/month (or $143/month annually), is Moz's most recommended package. This plan is great for digital marketers managing multiple domains or teams:
 
@@ -260,7 +259,7 @@ The Medium Plan, priced at $179/month (or $143/month annually), is Moz's most re
   
 You'll also unlock report templates and branded reports, giving your SEO process a professional edge.
 
-### **Large Plan: Built for Agencies & Power Users**
+**Large Plan: Built for Agencies & Power Users**
 
 At $299/month or $239/month when billed annually, the Large Plan offers everything in Medium, but with significantly scaled resources:
 

@@ -54,31 +54,31 @@ Moz Pro is trusted by businesses, marketers, and agencies worldwide. It’s espe
 
 Here’s how Moz Pro helps you:
 
-**All-in-One SEO Solution**
+- **All-in-One SEO Solution**
     
 It combines multiple SEO tools in one place—saving you time and effort.
     
-**Beginner-Friendly Dashboard**
+- **Beginner-Friendly Dashboard**
     
 You don’t need to be a tech expert. The dashboard is easy to use, with clear reports and tips.
     
-**Smart Keyword Suggestions**
+- **Smart Keyword Suggestions**
     
 Moz Pro helps you find the **right keywords** to target so that your content reaches more people.
     
-**Regular Website Health Checks**
+- **Regular Website Health Checks**
     
 It scans your site and shows problems like broken links or slow loading pages—**and tells you how to fix them**.
     
-**Track Progress Easily**
+- **Track Progress Easily**
     
 You can monitor your rankings and see if your SEO strategy is working.
     
-**Stay Ahead of Competitors**
+- **Stay Ahead of Competitors**
     
 Get insights into what your competitors are doing and how you can outrank them.
     
-**Trusted by Professionals**
+- **Trusted by Professionals**
     
 Used by digital marketers, agencies, and businesses worldwide.
     
